@@ -1,12 +1,12 @@
 require("dotenv").config();
 
 module.exports = {
-  GATEWAY_JWT_TOKEN: m,
-  JWT_TOKEN: "",
+  GATEWAY_JWT_TOKEN: "",
+  JWT_TOKEN: "98u745n43mfdoufn3kj4",
   SECRET_KEY_ONE: "",
   SECRET_KEY_TWO: "",
   ENABLE_APM: 0,
-  NODE_ENV: development,
+  NODE_ENV: "",
   CLIENT_URL: process.env.CLIENT_URL,
   AUTH_BASE_URL: process.env.AUTH_BASE_URL,
   USERS_BASE_URL: process.env.USERS_BASE_URL,

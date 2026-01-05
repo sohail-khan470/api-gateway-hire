@@ -38,7 +38,6 @@ app.use(express.urlencoded({ extended: true }));
 app.get("/api/health", (req, res) => {
   res.status(200).json({
     response: "Notification Service is up and running",
-    status: "OK",
   });
 });
 
