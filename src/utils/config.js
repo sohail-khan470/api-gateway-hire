@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 module.exports = {
-  GATEWAY_JWT_TOKEN: "",
+  GATEWAY_JWT_TOKEN: "88345jj8df7dfnjn234987",
   JWT_TOKEN: "98u745n43mfdoufn3kj4",
   SECRET_KEY_ONE: "",
   SECRET_KEY_TWO: "",
